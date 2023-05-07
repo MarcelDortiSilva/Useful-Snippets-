@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683476555 source:c:\users\marce\documents\c_programming\integer_factorial\factorial.c
+	<stdio.h>
+	<string.h>
+
