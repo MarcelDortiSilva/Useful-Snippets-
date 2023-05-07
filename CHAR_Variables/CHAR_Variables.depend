@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683231754 source:c:\users\marce\documents\c_programming\char_variables\temp_conv.c
+	<stdio.h>
+	<string.h>
+
