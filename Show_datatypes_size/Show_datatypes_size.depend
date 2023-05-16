@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684077756 source:c:\users\marce\documents\c_programming\show_datatypes_size\show_datatype_size.c
+	<stdio.h>
+	<stdlib.h>
+
