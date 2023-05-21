@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684245450 source:c:\users\marce\documents\c_programming\switch_function_daysofweek\switch.c
+	<stdio.h>
+	<windows.h>
+
