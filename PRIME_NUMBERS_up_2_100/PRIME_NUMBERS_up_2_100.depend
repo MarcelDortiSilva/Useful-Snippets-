@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688152293 source:c:\users\marce\documents\c_programming\prime_numbers_up_2_100\prime_numbers.c
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+
