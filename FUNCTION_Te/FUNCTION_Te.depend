@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689455792 source:c:\users\marce\documents\c_programming\function_te\function_test.c
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
