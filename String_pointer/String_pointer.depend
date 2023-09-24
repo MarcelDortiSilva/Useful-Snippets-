@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695578656 source:c:\users\marce\documents\c_programming\string_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
